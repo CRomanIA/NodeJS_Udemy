@@ -69,3 +69,19 @@ veremos hacer un get con http:
 
 */
 
+/*
+Secc06_cap58:
+ como manejar las peticiones post
+ expres debe parsear la iformacion cuando la recibe
+
+
+*/
+
+/*
+Secc06_cap61:
+Validacion de datos con modulo joi
+
+*/
+
+
+/*Para hacer un nodemon en cualquier proyecto, cambiar el nombre a app.js y levantara localhost:3000 */
